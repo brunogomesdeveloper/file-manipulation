@@ -24,5 +24,10 @@
   "bugs": {
     "url": "https://github.com/brunogomesdeveloper/file-manipulation/issues"
   },
-  "homepage": "https://github.com/brunogomesdeveloper/file-manipulation#readme"
+  "homepage": "https://github.com/brunogomesdeveloper/file-manipulation#readme",
+  "dependencies": {
+    "get-mp3-duration": "^1.0.0",
+    "get-video-duration": "^4.0.0",
+    "pdf-parse": "^1.1.1"
+  }
 }
